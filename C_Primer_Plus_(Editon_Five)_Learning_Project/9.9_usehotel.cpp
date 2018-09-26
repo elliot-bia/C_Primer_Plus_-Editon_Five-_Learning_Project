@@ -7,7 +7,7 @@ int main(void)
 	double hotel_rate;
 	int code;
 
-	while ((code = menu()) != QUIT)
+	while ((code = menu()) != QUIT)  //这里的quit是全局定义，在头文件里定义了，刚开始蒙蔽了，觉得不应该是5吗？啊哈哈
 	{
 		switch (code)
 		{
