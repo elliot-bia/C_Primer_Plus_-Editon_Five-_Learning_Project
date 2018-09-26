@@ -18,6 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="9.10_hotel.cpp" />
+    <ClCompile Include="9.9_usehotel.cpp" />
+    <ClCompile Include="Chapter_Night.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hotel.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{2DD09872-5A14-4205-8548-A167681325D5}</ProjectGuid>
@@ -140,9 +148,6 @@
       <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Chapter_Night.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

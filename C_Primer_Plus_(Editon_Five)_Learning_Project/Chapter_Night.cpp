@@ -1,8 +1,9 @@
 //#define _CRT_SECURE_NO_WARNINGS
 
-#include<stdio.h>
+//#include<stdio.h>
 
 //program 9.8 binary.c
+/*
 void to_binary(unsigned long n);
 int main(void)
 {
@@ -26,4 +27,6 @@ void to_binary(unsigned long n)
 		to_binary(n / 2);
 	putchar('0' + r);
 	return;
-}
+}*/
+
+
