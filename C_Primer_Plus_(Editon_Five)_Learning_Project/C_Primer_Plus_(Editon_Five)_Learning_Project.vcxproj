@@ -19,13 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter_Nine\9.10_hotel.cpp" />
-    <ClCompile Include="Chapter_Nine\9.12_loccheck.cpp" />
-    <ClCompile Include="Chapter_Nine\9.9_usehotel.cpp" />
-    <ClCompile Include="Chapter_Nine\Chapter_Night.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Chapter_Nine\hotel.h" />
+    <ClCompile Include="9.15_swap3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
