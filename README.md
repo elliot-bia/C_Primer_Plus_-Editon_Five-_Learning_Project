@@ -1,5 +1,5 @@
 # C_Primer_Plus_-Editon_Five-_Learning_Project
-C Primer Plus 第五版
+C Primer Plus 第五版 所有源码、复习题以及编程练习答案参考
 
 自学时的一些感悟写进了注释
 
