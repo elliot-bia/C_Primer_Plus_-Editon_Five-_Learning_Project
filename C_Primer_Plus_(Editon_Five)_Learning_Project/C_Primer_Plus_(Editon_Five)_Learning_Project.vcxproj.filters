@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter_Ten\10.16_zippo2.cpp">
+    <ClCompile Include="Chapter_Ten\10.17_array2d.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
